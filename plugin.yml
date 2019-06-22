@@ -1,0 +1,6 @@
+name: zShopCustom
+main: fr.maxlego08.shop.Shop
+version: 2.0.0
+author: Maxlego08
+commands:
+  shop:
